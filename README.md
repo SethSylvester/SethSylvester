@@ -1,5 +1,7 @@
 ## Hello everyone! 👋
-My name is Seth Sylvester, i'm a professional video game programmer currently living in Louisiana. You can reach me from my email Sethslys@gmail.com.
+My name is Seth Sylvester, i'm a professional video game programmer currently living in Louisiana. 
+
+You can reach me from my email Sethslys@gmail.com.
 
 ### Some helpful links
 
