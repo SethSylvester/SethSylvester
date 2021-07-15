@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello everyone! 👋
+My name is Seth Sylvester, i'm a professional video game programmer currently living in Louisiana. You can reach me from my email Sethslys@gmail.com.
+
+### Some helpful links
+
+* [My Resume](https://github.com/SethSylvester/SethSylvester.github.io/raw/main/Resume.pdf)
+* [My Linkedin](https://www.linkedin.com/in/seth-sylvester/)
+* [My Itch Page](https://sethsylvester.itch.io/)
 
 <!--
 **SethSylvester/SethSylvester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
