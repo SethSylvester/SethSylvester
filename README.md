@@ -3,7 +3,7 @@ My name is Seth Sylvester, i'm a professional video game programmer currently li
 
 ### Some helpful links
 
-* [My Resume](https://github.com/SethSylvester/SethSylvester.github.io/raw/main/Resume.pdf)
+* [Download My Resume](https://github.com/SethSylvester/SethSylvester.github.io/raw/main/Resume.pdf)
 * [My Linkedin](https://www.linkedin.com/in/seth-sylvester/)
 * [My Itch Page](https://sethsylvester.itch.io/)
 
