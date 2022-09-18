@@ -1,7 +1,7 @@
 ## Hello everyone! 👋
-My name is Seth Sylvester, i'm a professional video game programmer currently living in Louisiana. 
+My name is Seth Sylvester, I am a professional software engineer in the Orlando Flordia area. 
 
-You can reach me from my email Sethslys@gmail.com.
+You can reach me from my email sethsylvesterprogramming@gmail.com.
 
 ### Some helpful links
 
